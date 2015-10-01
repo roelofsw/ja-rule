@@ -951,7 +951,8 @@ void Transceiver_Initialize(const TransceiverHardwareSettings* settings,
   PLIB_USART_OperationModeSelect(g_hw_settings.usart,
                                  USART_ENABLE_TX_RX_USED);
   PLIB_USART_LineControlModeSelect(g_hw_settings.usart, USART_8N2);
-  // The following function seems to have been dropped between Harmony 1.02 and 1.06
+  // The following function seems to have been dropped 
+  // between Harmony 1.02 and 1.06
   // PLIB_USART_SyncModeSelect(g_hw_settings.usart, USART_ASYNC_MODE);
   PLIB_USART_TransmitterInterruptModeSelect(g_hw_settings.usart,
                                             USART_TRANSMIT_FIFO_EMPTY);
