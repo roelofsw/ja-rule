@@ -73,28 +73,28 @@
       </logicalFolder>
       <logicalFolder name="f3" displayName="bsp" projectFiles="true">
         <logicalFolder name="f1" displayName="pic32mx_eth_sk2" projectFiles="true">
-          <itemPath>/opt/microchip/harmony/v1_02/bsp/pic32mx_eth_sk2/bsp_config.h</itemPath>
+          <itemPath>/opt/microchip/harmony/v1_06/bsp/pic32mx_eth_sk2/bsp_config.h</itemPath>
         </logicalFolder>
       </logicalFolder>
       <logicalFolder name="f1" displayName="framework" projectFiles="true">
         <logicalFolder name="f1" displayName="system" projectFiles="true">
           <logicalFolder name="f1" displayName="common" projectFiles="true">
-            <itemPath>/opt/microchip/harmony/v1_02/framework/system/common/sys_common.h</itemPath>
-            <itemPath>/opt/microchip/harmony/v1_02/framework/system/common/sys_module.h</itemPath>
+            <itemPath>/opt/microchip/harmony/v1_06/framework/system/common/sys_common.h</itemPath>
+            <itemPath>/opt/microchip/harmony/v1_06/framework/system/common/sys_module.h</itemPath>
           </logicalFolder>
           <logicalFolder name="f2" displayName="devcon" projectFiles="true">
-            <itemPath>/opt/microchip/harmony/v1_02/framework/system/devcon/sys_devcon.h</itemPath>
+            <itemPath>/opt/microchip/harmony/v1_06/framework/system/devcon/sys_devcon.h</itemPath>
           </logicalFolder>
           <logicalFolder name="f3" displayName="int" projectFiles="true">
-            <itemPath>/opt/microchip/harmony/v1_02/framework/system/int/sys_int.h</itemPath>
+            <itemPath>/opt/microchip/harmony/v1_06/framework/system/int/sys_int.h</itemPath>
           </logicalFolder>
           <logicalFolder name="f4" displayName="ports" projectFiles="true">
-            <itemPath>/opt/microchip/harmony/v1_02/framework/system/ports/sys_ports.h</itemPath>
+            <itemPath>/opt/microchip/harmony/v1_06/framework/system/ports/sys_ports.h</itemPath>
           </logicalFolder>
-          <itemPath>/opt/microchip/harmony/v1_02/framework/system/system.h</itemPath>
+          <itemPath>/opt/microchip/harmony/v1_06/framework/system/system.h</itemPath>
         </logicalFolder>
         <logicalFolder name="f2" displayName="usb" projectFiles="true">
-          <itemPath>/opt/microchip/harmony/v1_02/framework/usb/usb_device.h</itemPath>
+          <itemPath>/opt/microchip/harmony/v1_06/framework/usb/usb_device.h</itemPath>
         </logicalFolder>
       </logicalFolder>
     </logicalFolder>
@@ -191,7 +191,7 @@
       </logicalFolder>
       <logicalFolder name="f3" displayName="bsp" projectFiles="true">
         <logicalFolder name="f1" displayName="pic32mx_eth_sk2" projectFiles="true">
-          <itemPath>/opt/microchip/harmony/v1_02/bsp/pic32mx_eth_sk2/bsp_sys_init.c</itemPath>
+          <itemPath>/opt/microchip/harmony/v1_06/bsp/pic32mx_eth_sk2/bsp_sys_init.c</itemPath>
         </logicalFolder>
       </logicalFolder>
       <logicalFolder name="f1" displayName="framework" projectFiles="true">
@@ -200,37 +200,37 @@
             <logicalFolder name="f1" displayName="usbfs" projectFiles="true">
               <logicalFolder name="f1" displayName="src" projectFiles="true">
                 <logicalFolder name="f1" displayName="dynamic" projectFiles="true">
-                  <itemPath>/opt/microchip/harmony/v1_02/framework/driver/usb/usbfs/src/dynamic/drv_usb.c</itemPath>
-                  <itemPath>/opt/microchip/harmony/v1_02/framework/driver/usb/usbfs/src/dynamic/drv_usb_device.c</itemPath>
+                  <itemPath>/opt/microchip/harmony/v1_06/framework/driver/usb/usbfs/src/dynamic/drv_usbfs.c</itemPath>
+                  <itemPath>/opt/microchip/harmony/v1_06/framework/driver/usb/usbfs/src/dynamic/drv_usbfs_device.c</itemPath>
                 </logicalFolder>
               </logicalFolder>
             </logicalFolder>
-            <itemPath>/opt/microchip/harmony/v1_02/framework/driver/usb/drv_usb.h</itemPath>
+            <itemPath>/opt/microchip/harmony/v1_06/framework/driver/usb/drv_usb.h</itemPath>
           </logicalFolder>
         </logicalFolder>
         <logicalFolder name="f1" displayName="system" projectFiles="true">
           <logicalFolder name="f1" displayName="devcon" projectFiles="true">
             <logicalFolder name="f1" displayName="src" projectFiles="true">
-              <itemPath>/opt/microchip/harmony/v1_02/framework/system/devcon/src/sys_devcon.c</itemPath>
-              <itemPath>/opt/microchip/harmony/v1_02/framework/system/devcon/src/sys_devcon_pic32mx.c</itemPath>
+              <itemPath>/opt/microchip/harmony/v1_06/framework/system/devcon/src/sys_devcon.c</itemPath>
+              <itemPath>/opt/microchip/harmony/v1_06/framework/system/devcon/src/sys_devcon_pic32mx.c</itemPath>
             </logicalFolder>
           </logicalFolder>
           <logicalFolder name="f2" displayName="int" projectFiles="true">
             <logicalFolder name="f1" displayName="src" projectFiles="true">
-              <itemPath>/opt/microchip/harmony/v1_02/framework/system/int/src/sys_int_pic32.c</itemPath>
+              <itemPath>/opt/microchip/harmony/v1_06/framework/system/int/src/sys_int_pic32.c</itemPath>
             </logicalFolder>
           </logicalFolder>
           <logicalFolder name="f3" displayName="ports" projectFiles="true">
             <logicalFolder name="f1" displayName="src" projectFiles="true">
-              <itemPath>/opt/microchip/harmony/v1_02/framework/system/ports/src/sys_ports.c</itemPath>
+              <itemPath>/opt/microchip/harmony/v1_06/framework/system/ports/src/sys_ports.c</itemPath>
             </logicalFolder>
           </logicalFolder>
         </logicalFolder>
         <logicalFolder name="f3" displayName="usb" projectFiles="true">
           <logicalFolder name="f1" displayName="src" projectFiles="true">
             <logicalFolder name="f1" displayName="dynamic" projectFiles="true">
-              <itemPath>/opt/microchip/harmony/v1_02/framework/usb/src/dynamic/usb_device.c</itemPath>
-              <itemPath>/opt/microchip/harmony/v1_02/framework/usb/src/dynamic/usb_device_endpoint_functions.c</itemPath>
+              <itemPath>/opt/microchip/harmony/v1_06/framework/usb/src/dynamic/usb_device.c</itemPath>
+              <itemPath>/opt/microchip/harmony/v1_06/framework/usb/src/dynamic/usb_device_endpoint_functions.c</itemPath>
             </logicalFolder>
           </logicalFolder>
         </logicalFolder>
@@ -243,17 +243,14 @@
     </logicalFolder>
   </logicalFolder>
   <sourceRootList>
-    <Elem>../src</Elem>
-    <Elem>../src/system_config/ethernet_sk2</Elem>
-    <Elem>../linker</Elem>
-    <Elem>../../../common</Elem>
-    <Elem>/opt/microchip/harmony/v1_02</Elem>
-    <Elem>../../../linker</Elem>
-    <Elem>../src/system_config/number8</Elem>
-    <Elem>../../../boardcfg/ethernet_sk2</Elem>
-    <Elem>../../../boardcfg/number8</Elem>
-    <Elem>../src/system_config/number1</Elem>
-    <Elem>../../../boardcfg/number1</Elem>
+    <Elem>/home/roelofs/dev/ja-rule/Bootloader/firmware/src</Elem>
+    <Elem>/home/roelofs/dev/ja-rule/Bootloader/firmware/linker</Elem>
+    <Elem>/home/roelofs/dev/ja-rule/common</Elem>
+    <Elem>/opt/microchip/harmony/v1_06</Elem>
+    <Elem>/home/roelofs/dev/ja-rule/linker</Elem>
+    <Elem>/home/roelofs/dev/ja-rule/boardcfg/ethernet_sk2</Elem>
+    <Elem>/home/roelofs/dev/ja-rule/boardcfg/number8</Elem>
+    <Elem>/home/roelofs/dev/ja-rule/boardcfg/number1</Elem>
   </sourceRootList>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
@@ -265,13 +262,13 @@
         <targetPluginBoard></targetPluginBoard>
         <platformTool>PKOBSKDEPlatformTool</platformTool>
         <languageToolchain>XC32</languageToolchain>
-        <languageToolchainVersion>1.33</languageToolchainVersion>
-        <platform>4</platform>
+        <languageToolchainVersion>1.40</languageToolchainVersion>
+        <platform>2</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
           <linkerLibItems>
-            <linkerLibFileItem>/opt/microchip/harmony/v1_02/bin/framework/peripheral/PIC32MX795F512L_peripherals.a</linkerLibFileItem>
+            <linkerLibFileItem>/opt/microchip/harmony/v1_06/bin/framework/peripheral/PIC32MX795F512L_peripherals.a</linkerLibFileItem>
           </linkerLibItems>
         </linkerTool>
         <archiverTool>
@@ -667,7 +664,7 @@
         <property key="enable-unroll-loops" value="false"/>
         <property key="exclude-floating-point" value="false"/>
         <property key="extra-include-directories"
-                  value="../src;../../../common;../../../boardcfg/ethernet_sk2;../src/system_config/ethernet_sk2;/opt/microchip/harmony/v1_02/framework;../src/system_config/ethernet_sk2/framework;../../../../../../../opt/microchip/harmony/v1_02/bsp/pic32mx_eth_sk2"/>
+                  value="../src;../../../common;../../../boardcfg/ethernet_sk2;../src/system_config/ethernet_sk2;/opt/microchip/harmony/v1_06/framework;../src/system_config/ethernet_sk2/framework;../../../../../../../opt/microchip/harmony/v1_06/bsp/pic32mx_eth_sk2"/>
         <property key="generate-16-bit-code" value="false"/>
         <property key="generate-micro-compressed-code" value="false"/>
         <property key="isolate-each-function" value="true"/>
@@ -884,13 +881,13 @@
         <targetPluginBoard></targetPluginBoard>
         <platformTool>PICkit3PlatformTool</platformTool>
         <languageToolchain>XC32</languageToolchain>
-        <languageToolchainVersion>1.33</languageToolchainVersion>
-        <platform>4</platform>
+        <languageToolchainVersion>1.40</languageToolchainVersion>
+        <platform>2</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
           <linkerLibItems>
-            <linkerLibFileItem>/opt/microchip/harmony/v1_02/bin/framework/peripheral/PIC32MX675F512H_peripherals.a</linkerLibFileItem>
+            <linkerLibFileItem>/opt/microchip/harmony/v1_06/bin/framework/peripheral/PIC32MX675F512H_peripherals.a</linkerLibFileItem>
           </linkerLibItems>
         </linkerTool>
         <archiverTool>
@@ -1262,7 +1259,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/bsp/pic32mx_eth_sk2/bsp_config.h"
+      <item path="/opt/microchip/harmony/v1_06/bsp/pic32mx_eth_sk2/bsp_config.h"
             ex="true"
             overriding="false">
         <C32>
@@ -1278,7 +1275,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/bsp/pic32mx_eth_sk2/bsp_sys_init.c"
+      <item path="/opt/microchip/harmony/v1_06/bsp/pic32mx_eth_sk2/bsp_sys_init.c"
             ex="true"
             overriding="false">
         <C32>
@@ -1294,7 +1291,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/framework/system/common/sys_common.h"
+      <item path="/opt/microchip/harmony/v1_06/framework/system/common/sys_common.h"
             ex="true"
             overriding="false">
         <C32>
@@ -1310,7 +1307,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/framework/system/common/sys_module.h"
+      <item path="/opt/microchip/harmony/v1_06/framework/system/common/sys_module.h"
             ex="true"
             overriding="false">
         <C32>
@@ -1326,7 +1323,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/framework/system/devcon/sys_devcon.h"
+      <item path="/opt/microchip/harmony/v1_06/framework/system/devcon/sys_devcon.h"
             ex="true"
             overriding="false">
         <C32>
@@ -1342,7 +1339,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/framework/system/int/sys_int.h"
+      <item path="/opt/microchip/harmony/v1_06/framework/system/int/sys_int.h"
             ex="true"
             overriding="false">
         <C32>
@@ -1358,7 +1355,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/framework/system/ports/sys_ports.h"
+      <item path="/opt/microchip/harmony/v1_06/framework/system/ports/sys_ports.h"
             ex="true"
             overriding="false">
         <C32>
@@ -1374,7 +1371,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/framework/system/system.h"
+      <item path="/opt/microchip/harmony/v1_06/framework/system/system.h"
             ex="true"
             overriding="false">
         <C32>
@@ -1390,7 +1387,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/framework/usb/usb_device.h"
+      <item path="/opt/microchip/harmony/v1_06/framework/usb/usb_device.h"
             ex="true"
             overriding="false">
         <C32>
@@ -1414,7 +1411,7 @@
         <property key="enable-unroll-loops" value="false"/>
         <property key="exclude-floating-point" value="false"/>
         <property key="extra-include-directories"
-                  value="../src;../../../common;../../../boardcfg/number8;../src/system_config/number8;/opt/microchip/harmony/v1_02/framework;../src/system_config/number8/framework"/>
+                  value="../src;../../../common;../../../boardcfg/number8;../src/system_config/number8;/opt/microchip/harmony/v1_06/framework;../src/system_config/number8/framework"/>
         <property key="generate-16-bit-code" value="false"/>
         <property key="generate-micro-compressed-code" value="false"/>
         <property key="isolate-each-function" value="true"/>
@@ -1524,6 +1521,7 @@
         <property key="COMPARATOR" value="true"/>
         <property key="DMA" value="true"/>
         <property key="ETHERNET CONTROLLER" value="true"/>
+        <property key="Freeze All Other Peripherals" value="true"/>
         <property key="I2C1" value="true"/>
         <property key="I2C3" value="true"/>
         <property key="I2C4" value="true"/>
@@ -1559,7 +1557,6 @@
         <property key="UART4" value="true"/>
         <property key="UART5" value="true"/>
         <property key="UART6" value="true"/>
-        <property key="firmware.download.all" value="false"/>
         <property key="hwtoolclock.frcindebug" value="false"/>
         <property key="memories.aux" value="false"/>
         <property key="memories.bootflash" value="true"/>
@@ -1604,13 +1601,13 @@
         <targetPluginBoard></targetPluginBoard>
         <platformTool>PICkit3PlatformTool</platformTool>
         <languageToolchain>XC32</languageToolchain>
-        <languageToolchainVersion>1.33</languageToolchainVersion>
-        <platform>4</platform>
+        <languageToolchainVersion>1.40</languageToolchainVersion>
+        <platform>2</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
           <linkerLibItems>
-            <linkerLibFileItem>/opt/microchip/harmony/v1_02/bin/framework/peripheral/PIC32MX675F512H_peripherals.a</linkerLibFileItem>
+            <linkerLibFileItem>/opt/microchip/harmony/v1_06/bin/framework/peripheral/PIC32MX675F512H_peripherals.a</linkerLibFileItem>
           </linkerLibItems>
         </linkerTool>
         <archiverTool>
@@ -1982,7 +1979,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/bsp/pic32mx_eth_sk2/bsp_config.h"
+      <item path="/opt/microchip/harmony/v1_06/bsp/pic32mx_eth_sk2/bsp_config.h"
             ex="true"
             overriding="false">
         <C32>
@@ -1998,7 +1995,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/bsp/pic32mx_eth_sk2/bsp_sys_init.c"
+      <item path="/opt/microchip/harmony/v1_06/bsp/pic32mx_eth_sk2/bsp_sys_init.c"
             ex="true"
             overriding="false">
         <C32>
@@ -2014,7 +2011,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/framework/system/common/sys_common.h"
+      <item path="/opt/microchip/harmony/v1_06/framework/system/common/sys_common.h"
             ex="true"
             overriding="false">
         <C32>
@@ -2030,7 +2027,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/framework/system/common/sys_module.h"
+      <item path="/opt/microchip/harmony/v1_06/framework/system/common/sys_module.h"
             ex="true"
             overriding="false">
         <C32>
@@ -2046,7 +2043,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/framework/system/devcon/sys_devcon.h"
+      <item path="/opt/microchip/harmony/v1_06/framework/system/devcon/sys_devcon.h"
             ex="true"
             overriding="false">
         <C32>
@@ -2062,7 +2059,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/framework/system/int/sys_int.h"
+      <item path="/opt/microchip/harmony/v1_06/framework/system/int/sys_int.h"
             ex="true"
             overriding="false">
         <C32>
@@ -2078,7 +2075,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/framework/system/ports/sys_ports.h"
+      <item path="/opt/microchip/harmony/v1_06/framework/system/ports/sys_ports.h"
             ex="true"
             overriding="false">
         <C32>
@@ -2094,7 +2091,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/framework/system/system.h"
+      <item path="/opt/microchip/harmony/v1_06/framework/system/system.h"
             ex="true"
             overriding="false">
         <C32>
@@ -2110,7 +2107,7 @@
         <C32Global>
         </C32Global>
       </item>
-      <item path="/opt/microchip/harmony/v1_02/framework/usb/usb_device.h"
+      <item path="/opt/microchip/harmony/v1_06/framework/usb/usb_device.h"
             ex="true"
             overriding="false">
         <C32>
@@ -2134,7 +2131,7 @@
         <property key="enable-unroll-loops" value="false"/>
         <property key="exclude-floating-point" value="false"/>
         <property key="extra-include-directories"
-                  value="../src;../../../common;../../../boardcfg/number1;../src/system_config/number1;/opt/microchip/harmony/v1_02/framework;../../../../../../../opt/microchip/harmony/v1_02/framework;../src/system_config/number1/framework"/>
+                  value="../src;../../../common;../../../boardcfg/number1;../src/system_config/number1;/opt/microchip/harmony/v1_06/framework;../../../../../../../opt/microchip/harmony/v1_06/framework;../src/system_config/number1/framework"/>
         <property key="generate-16-bit-code" value="false"/>
         <property key="generate-micro-compressed-code" value="false"/>
         <property key="isolate-each-function" value="true"/>
@@ -2244,6 +2241,7 @@
         <property key="COMPARATOR" value="true"/>
         <property key="DMA" value="true"/>
         <property key="ETHERNET CONTROLLER" value="true"/>
+        <property key="Freeze All Other Peripherals" value="true"/>
         <property key="I2C1" value="true"/>
         <property key="I2C3" value="true"/>
         <property key="I2C4" value="true"/>
