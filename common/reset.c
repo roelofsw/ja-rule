@@ -23,8 +23,8 @@
 // TODO(simon): Remove this and switch to the harmony function
 #define _SUPPRESS_PLIB_WARNING
 
-#include <peripheral/reset.h>
+#include <peripheral/reset/plib_reset.h>
 
 void Reset_SoftReset() {
-  SoftReset();
+    PLIB_RESET_SoftwareResetEnable(RESET_ID_0);
 }
